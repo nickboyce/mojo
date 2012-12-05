@@ -2,7 +2,7 @@ sudo -s 'curl -L cpanmin.us | perl - Mojolicious'
 
 morbo app.pl
 
-Visit these URLs:
+Visit these URLs: 
 
 * http://localhost:3000/foo/bar
 * http://localhost:3000/foo/bar.json
